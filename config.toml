@@ -1,0 +1,29 @@
+baseurl = "https://blog.motchie.com/"
+defaultContentLanguage = "ja"
+hasCJKLanguage = "ture"
+title = "The Golden Rule"
+theme = "hugo-theme-blog-motchie-com"
+author = "Toru Motchie MOCHIDA"
+copyright = "© 2015-2018 Toru Motchie MOCHIDA"
+canonifyurls = true
+paginate = 3
+
+languageCode = "ja-JP"
+defaultContentLanguageInSubdir = "true"
+metaDataFormat = "toml"
+
+googleAnalytics = "UA-67998464-1"
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+
+[social]
+twitter = "motchie"
+
+# Languages to render
+[languages.ja]
+[languages.en]
+
+[blackfriday]
+  extensionsmask = ["autoHeaderIds"]
