@@ -7,6 +7,7 @@ phases:
       - tar xf /tmp/hugo.tar.gz -C /tmp
       - mv /tmp/hugo /usr/local/bin/hugo
       - rm -rf /tmp/hugo*
+<<<<<<< HEAD
   pre_build:
     commands:
       - cd $CODEBUILD_SRC_DIR/themes
@@ -14,3 +15,8 @@ phases:
   build:
     commands:
       - hugo
+=======
+  build:
+    commands:
+      - hugo     
+>>>>>>> eae63d6644ffd6c1581bdb81fd02b900e35273ef
