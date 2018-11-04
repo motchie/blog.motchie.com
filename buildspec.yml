@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.50/hugo_0.50_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
+      - curl -Ls ${HUGO_URL} -o /tmp/hugo.tar.gz
       - tar xf /tmp/hugo.tar.gz -C /tmp
       - mv /tmp/hugo /usr/local/bin/hugo
       - rm -rf /tmp/hugo*
@@ -15,3 +15,6 @@ phases:
   build:
     commands:
       - hugo
+  post_build:
+    commands:
+      - aws s3 sync public/ s3://${BUCKET_NAME} --delete
