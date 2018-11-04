@@ -12,8 +12,6 @@ languageCode = "ja-JP"
 defaultContentLanguageInSubdir = "true"
 metaDataFormat = "toml"
 
-relativeURLs = "true"
-
 googleAnalytics = "UA-67998464-1"
 
 [permalinks]
