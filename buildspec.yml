@@ -14,7 +14,7 @@ phases:
       - cd $CODEBUILD_SRC_DIR
   build:
     commands:
-      - hugo
+      - hugo --baseURL ${BASE_URL}
   post_build:
     commands:
       - aws s3 sync public/ s3://${BUCKET_NAME} --delete --acl public-read
