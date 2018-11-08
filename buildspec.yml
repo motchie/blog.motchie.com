@@ -7,6 +7,12 @@ phases:
       - tar xf /tmp/hugo.tar.gz -C /tmp
       - mv /tmp/hugo /usr/local/bin/hugo
       - rm -rf /tmp/hugo*
+      - curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+      - sudo apt-get install -y nodejs
+      - curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+      - echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+      - sudo apt-get update && sudo apt-get install yarn
+      - yarn add
   pre_build:
     commands:
       - cd $CODEBUILD_SRC_DIR/themes
@@ -15,6 +21,7 @@ phases:
   build:
     commands:
       - hugo --baseURL ${BASE_URL}
+      - find ./public/ -name "*.html" -exec node_modules/js-beautify/js/bin/html-beautify.js --config js-beautify.json --replace {} ¥;
   post_build:
     commands:
       - aws s3 sync public/ s3://${BUCKET_NAME} --delete --acl public-read

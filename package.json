@@ -1,0 +1,11 @@
+{
+  "name": "blog.motchie.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/motchie/blog.motchie.com.git",
+  "author": "Toru Motchie MOCHIDA <motchie@motchie.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-beautify": "^1.8.8"
+  }
+}

@@ -1,3 +1,5 @@
+/node_modules/
 /public/
 /themes/hugo-theme-blog-motchie-com/
 .DS_Store
+yarn.lock
