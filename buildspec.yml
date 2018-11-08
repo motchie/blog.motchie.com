@@ -25,3 +25,4 @@ phases:
   post_build:
     commands:
       - aws s3 sync public/ s3://${BUCKET_NAME} --delete --acl public-read
+      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths "/*"
