@@ -8,9 +8,9 @@ description: "アジャイル開発やセキュリティ分野で注目されて
 <section>
     <h3>はじめに</h3>
     <p>この記事は<a href="http://accfes.com/seminar_page07.html">アクセシビリティの祭典2017『話題の技術とアクセシビリティ（IoT、VR、AR、音声など）』</a>のトークセッションでお話しようと準備した内容をまとめたものです。</p>
-    <p>ここまで、<a href="accessibility/thinking-about-accssibility-of-IoT-systems.html">IoT</a>や <a href="/accessibility/ja-organize-issues-of-accessibility-of-virtual-reality.html">VRシステム</a>や
-        <a href="/accessibility/ja-organize-issues-of-accessibility-of-virtual-assistant.html">AI音声アシスタント</a>の事例を通して、それらのシステムのアクセシビリティについて見てきました。</p>
-    <p>また、これらの事例から、アクセシブルなシステムが備えるべき<a href="/accessibility/ja-multimodality-architecture.html">マルチモダリティ・アーキテクチャを提唱</a>しました。</p>
+    <p>ここまで、<a href="/ja/accessibility/thinking-about-accssibility-of-iot-systems/">IoT</a>や <a href="/ja/accessibility/organize-issues-of-accessibility-of-virtual-reality/">VRシステム</a>や
+        <a href="/ja/accessibility/organize-issues-of-accessibility-of-virtual-assistant/">AI音声アシスタント</a>の事例を通して、それらのシステムのアクセシビリティについて見てきました。</p>
+    <p>また、これらの事例から、アクセシブルなシステムが備えるべき<a href="/ja/accessibility/multimodality-architecture/">マルチモダリティ・アーキテクチャを提唱</a>しました。</p>
     <p>そうしたものから見えてくる本質とは、何でしょうか。</p>
     <div><img class="entry-image" alt="[イメージ写真]" src="/images/ja-shift-left-in-accessibility.jpeg" />
         <p class="entry-image-credit">Photo credit: <a href="https://www.flickr.com/photos/thomashawk/6948213923/">Thomas Hawk</a> via <a href="https://visualhunt.com/re/2a31c9">VisualHunt.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/"> CC BY-NC</a>
@@ -29,7 +29,7 @@ description: "アジャイル開発やセキュリティ分野で注目されて
 </section>
 <section>
     <h3>設計段階でのアクセシビリティ</h3>
-    <p><a href="/accessibility/thinking-about-accssibility-of-IoT-systems.html">IoT</a>の記事にも書いていますが、セキュリティとアクセシビリティは、その性質において似ている部分があると、以前から考えていました。</p>
+    <p><a href="/ja/accessibility/thinking-about-accssibility-of-iot-systems/">IoT</a>の記事にも書いていますが、セキュリティとアクセシビリティは、その性質において似ている部分があると、以前から考えていました。</p>
     <p>両者の共通点を挙げてみると:</p>
     <ul>
         <li>どちらも、きちんと実装しないと、金銭的損害や人的損害、事故や損害賠償などの引き金になりかねません</li>

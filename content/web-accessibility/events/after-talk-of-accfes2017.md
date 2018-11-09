@@ -7,7 +7,7 @@ description: "2017年「アクセシビリティの祭典」に参加させて�
 
 ### はじめに
 
-<a href="/web-accessibility/events/ja-will-attending-to-accfes2017-as-a-speaker.html">事前にお知らせしていた</a>通り、2017年5月18日に開催された<a href="http://accfes.com/">『アクセシビリティの祭典』</a>のトークセッションおよび最後の「グランドフィナーレ『アクセシビリティQ&amp;A』」で無事に役目を果たすことができました。
+<a href="/ja/web-accessibility/events/will-attending-to-accfes2017-as-a-speaker/">事前にお知らせしていた</a>通り、2017年5月18日に開催された<a href="http://accfes.com/">『アクセシビリティの祭典』</a>のトークセッションおよび最後の「グランドフィナーレ『アクセシビリティQ&amp;A』」で無事に役目を果たすことができました。
 
 「事後レポートを書くまでがイベント参加」だというのを読んだことがありますが、遅くなってしまいました。
 

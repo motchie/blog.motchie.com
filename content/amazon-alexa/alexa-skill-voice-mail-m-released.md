@@ -8,7 +8,7 @@ description: "2017年末から個人的に開発していたMicrosoftオンラ�
 <section>
     <h3>はじめに</h3>
     <p>本日、私が開発したAlexaスキル「音声メールM」が審査を通過して公開になりました。</p>
-    <p>「Alexaスキル」は、<a href="/amazon-alexa/ja-usability-for-amazon-alexa-and-new-paradigm.html">以前の記事</a>でもご紹介しましたが、 Amazon Echoなどのスマートスピーカーに対して追加できる「能力」であり、スマートフォンにおけるアプリのようなものです。</p>
+    <p>「Alexaスキル」は、<a href="/ja/amazon-alexa/usability-for-amazon-alexa-and-new-paradigm/">以前の記事</a>でもご紹介しましたが、 Amazon Echoなどのスマートスピーカーに対して追加できる「能力」であり、スマートフォンにおけるアプリのようなものです。</p>
     <p>「音声メールM」は、Alexaスキルの「アカウントリンク」機能を利用し、Microsoftオンラインサービス(<a href="https://outlook.live.com/owa/">Outlook.com</a>、<a href="https://products.office.com/ja-jp/exchange/exchange-online">Exchange Online</a>、<a href="https://products.office.com/ja-jp/business/office">Office 365</a>)のメールアドレスに届いたメールの冒頭を読み上げることができます。今のところ、届いたメールを読み上げることが可能で、メールの送信はできません。</p>
     <p>Alexa Appのスキルページにて、しばらくは「新着」に、以後は[仕事効率化]カテゴリーかキーワード「音声メール」で検索いただければ見つけていただけます。</p>
     <p>この記事では、スキルの簡単な使い方をご紹介します。</p>

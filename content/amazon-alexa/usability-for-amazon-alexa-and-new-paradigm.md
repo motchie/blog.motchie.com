@@ -10,7 +10,7 @@ description: "Amazon Alexaのユーザビリティを考えた結果ユーザビ
     <p>この記事は、
         <a href="https://adventar.org/calendars/2332">Amazon Alexa Advent Calendar 2017</a>の22日目の記事です。</p>
     <p>今年の5月に
-        <a href="/accessibility/ja-organize-issues-of-accessibility-of-virtual-assistant.html">アクセシビリティの祭典でAI音声スピーカーについてお話</a>したり、それを受けて
+        <a href="/ja/accessibility/organize-issues-of-accessibility-of-virtual-assistant/">アクセシビリティの祭典でAI音声スピーカーについてお話</a>したり、それを受けて
         <a href="https://accsell.net/podcast/0118.html">AccSellポッドキャストでお話させていただいた</a>りした頃から、主に
         <a href="https://developer.amazon.com/ja/alexa">Amazon Alexa</a>(以下、&quot;Alexa&quot;)をベースに関連資料を読んだり、
         <a href="https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi"><abbr title="Alexa Voice Service">AVS</abbr>をRaspberry Piで
@@ -233,7 +233,7 @@ description: "Amazon Alexaのユーザビリティを考えた結果ユーザビ
     <p>同様にNormanの<span lang="en">&quot;The visibility principle&quot;</span>についても、Alexa端末自体ではとても確認できませんが、Alexaアプリでは確認することができます。</p>
     <p>こうした歴史のあるユーザビリティ理論は、工業製品やGUIソフトウェアといった、それ自体で完結しているもののユーザビリティ研究から生まれた原則と推測されます。しかし、今回のAlexaはじめ、例えば無線LANアクセスポイントとコンパニオンアプリといったように、複数のコンポーネントで1つのシステムを構成するものが増えてきています。そうした、複数コンポーネントによるシステムのユーザビリティ評価では、そのうちの単体を捉えてユーザビリティを議論するのは危険である可能性を考えています。</p>
     <p>これはちょうど、以前私がアクセシビリティの分野で提唱した
-        <a href="/accessibility/ja-multimodality-architecture.html">マルチモダリティ・アーキテクチャ</a>と状況が同じです。これも同じく、複数のコンポーネントで1つのシステムが構成される場合に、その中の個別の要素ではなく、システム全体として複数のモダリティをサポートすることで、アクセシビリティを評価した方がよいと思われます。
+        <a href="/ja/accessibility/multimodality-architecture/">マルチモダリティ・アーキテクチャ</a>と状況が同じです。これも同じく、複数のコンポーネントで1つのシステムが構成される場合に、その中の個別の要素ではなく、システム全体として複数のモダリティをサポートすることで、アクセシビリティを評価した方がよいと思われます。
     </p>
     <p>加えて、先ほど書いたように、システムの持つ機能に関しても従来と変わってきました。すなわち、従来のユーザビリティ理論が基礎とする工業製品やGUIソフトウェアは、設計段階からユーザーが利用するまで、およそ機能が変わらないと考えられます。したがって、それらの理論は、その機能を如何にユーザーに伝えるかに苦心した結果と解釈されます。</p>
     <p>ところが、スマートフォンやAlexa端末などは、標準機能はあるものの、ユーザーが機能を追加することができ、その過程でユーザーは個々の機能を理解し納得して追加していくことになります。したがって、工場で実装された機能とは、ユーザーの理解がその点で全く異なります。</p>

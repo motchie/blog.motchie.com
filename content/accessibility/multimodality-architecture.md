@@ -8,8 +8,8 @@ description: "システムの入出力が複数のモダリティで提供され
 <section>
     <h3>はじめに</h3>
     <p>この記事は<a href="http://accfes.com/seminar_page07.html">アクセシビリティの祭典2017『話題の技術とアクセシビリティ（IoT、VR、AR、音声など）』</a>のトークセッションでお話しようと準備した内容をまとめたものです。</p>
-    <p>ここまで、<a href="/accessibility/thinking-about-accssibility-of-IoT-systems.html" lang="en">IoT</a>や<a href="/accessibility/ja-organize-issues-of-accessibility-of-virtual-reality.html">VRシステム</a>や
-        <a href="/accessibility/ja-organize-issues-of-accessibility-of-virtual-assistant.html">AI音声アシスタント</a>の事例を通して、それらのシステムのアクセシビリティについて見てきました。</p>
+    <p>ここまで、<a href="/ja/accessibility/thinking-about-accssibility-of-iot-systems/" lang="en">IoT</a>や<a href="/ja/accessibility/organize-issues-of-accessibility-of-virtual-reality/">VRシステム</a>や
+        <a href="/ja/accessibility/organize-issues-of-accessibility-of-virtual-assistant/">AI音声アシスタント</a>の事例を通して、それらのシステムのアクセシビリティについて見てきました。</p>
     <p>では、これらの事例から、私たちが今後アクセシブルなシステムを設計する上で大切な共通の知見を得ることはできるでしょうか。</p>
     <div><img class="entry-image" alt="[イメージ写真]" src="/images/multimodality-architecture.jpeg" />
         <p class="entry-image-credit" lang="en">Photo credit: <a href="https://www.flickr.com/photos/michaelgallagher/13986993793/">michaelseangallagher</a> via <a href="https://visualhunt.com/re/2a31c9">Visualhunt</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/"> CC BY-SA</a>
