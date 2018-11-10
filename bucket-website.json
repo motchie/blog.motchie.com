@@ -1,0 +1,167 @@
+{
+    "IndexDocument": {
+        "Suffix": "index.html"
+    },
+    "RoutingRules": [
+        {
+            "Condition": {
+                "KeyPrefixEquals": "amazon-alexa/ja-alexa-skill-voice-mail-m-released.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/amazon-alexa/alexa-skill-voice-mail-m-released/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "amazon-alexa/ja-usability-for-amazon-alexa-and-new-paradigm.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/amazon-alexa/usability-for-amazon-alexa-and-new-paradigm/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "accessibility/web-is-not-for-everyone.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/web-accessibility/web-is-not-for-everyone/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "accessibility/ja-after-talk-of-accfes2017.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/web-accessibility/events/after-talk-of-accfes2017/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "accessibility/ja-shift-left-in-accessibility.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/accessibility/shift-left-in-accessibility/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "accessibility/ja-multimodality-architecture.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/accessibility/multimodality-architecture/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "accessibility/ja-organize-issues-of-accessibility-of-virtual-assistant.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/accessibility/organize-issues-of-accessibility-of-virtual-assistant/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "accessibility/ja-organize-issues-of-accessibility-of-virtual-reality.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/accessibility/organize-issues-of-accessibility-of-virtual-reality/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "web-accessibility/events/ja-will-attending-to-accfes2017-as-a-speaker.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/web-accessibility/events/will-attending-to-accfes2017-as-a-speaker/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "aws/certification/ja-aws-certified-solutions-architect-associate-2016.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/aws/certification/aws-certified-solutions-architect-associate-2016/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "accessibility/thinking-about-accssibility-of-IoT-systems.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/accessibility/thinking-about-accssibility-of-iot-systems/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "child-rearing/ja-some-ideas-on-self-improvement-for-child-rearing-engineer.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/child-rearing/some-ideas-on-self-improvement-for-child-rearing-engineer/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "web-accessibility/ja-building-websites-reciting-system-with-amazon-polly-and-amazon-cognito.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/web-accessibility/building-websites-reciting-system-with-amazon-polly-and-amazon-cognito/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "web-accessibility/readability/ja-implementing-wcag-sc315-readability-in-japanese.html"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/web-accessibility/readability/implementing-wcag-sc315-readability-in-japanese/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "disclaimer/"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/disclaimer/"
+            }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "about-the-blog/"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/about-the-blog/"
+            }
+        }
+    ]
+}
