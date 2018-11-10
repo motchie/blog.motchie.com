@@ -162,6 +162,16 @@
                 "Protocol": "https",
                 "ReplaceKeyPrefixWith": "ja/about-the-blog/"
             }
+        },
+        {
+            "Condition": {
+                "KeyPrefixEquals": "atom.xml"
+            },
+            "Redirect": {
+                "HostName": "blog.motchie.com",
+                "Protocol": "https",
+                "ReplaceKeyPrefixWith": "ja/index.xml"
+            }
         }
     ]
 }
