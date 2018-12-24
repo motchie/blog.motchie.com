@@ -6,7 +6,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/amazon-alexa/alexa-skill-voice-mail-m-released/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/amazon-alexa/alexa-skill-voice-mail-m-released/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -16,7 +16,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/amazon-alexa/usability-for-amazon-alexa-and-new-paradigm/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/amazon-alexa/usability-for-amazon-alexa-and-new-paradigm/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -26,7 +26,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/web-accessibility/web-is-not-for-everyone/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/web-accessibility/web-is-not-for-everyone/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -36,7 +36,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/web-accessibility/events/after-talk-of-accfes2017/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/web-accessibility/events/after-talk-of-accfes2017/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -46,7 +46,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/accessibility/shift-left-in-accessibility/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/accessibility/shift-left-in-accessibility/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -56,7 +56,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/accessibility/multimodality-architecture/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/accessibility/multimodality-architecture/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -66,7 +66,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/accessibility/organize-issues-of-accessibility-of-virtual-assistant/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/accessibility/organize-issues-of-accessibility-of-virtual-assistant/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -76,7 +76,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/accessibility/organize-issues-of-accessibility-of-virtual-reality/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/accessibility/organize-issues-of-accessibility-of-virtual-reality/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -86,7 +86,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/web-accessibility/events/will-attending-to-accfes2017-as-a-speaker/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/web-accessibility/events/will-attending-to-accfes2017-as-a-speaker/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -96,7 +96,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/aws/certification/aws-certified-solutions-architect-associate-2016/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/aws/certification/aws-certified-solutions-architect-associate-2016/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -106,7 +106,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/accessibility/thinking-about-accssibility-of-iot-systems/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/accessibility/thinking-about-accssibility-of-iot-systems/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -116,7 +116,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/child-rearing/some-ideas-on-self-improvement-for-child-rearing-engineer/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/child-rearing/some-ideas-on-self-improvement-for-child-rearing-engineer/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -126,7 +126,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/web-accessibility/building-websites-reciting-system-with-amazon-polly-and-amazon-cognito/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/web-accessibility/building-websites-reciting-system-with-amazon-polly-and-amazon-cognito/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -136,7 +136,7 @@
     <Redirect>
       <Protocol>https</Protocol>
       <HostName>blog.motchie.com</HostName>
-      <ReplaceKeyPrefixWith>ja/web-accessibility/readability/implementing-wcag-sc315-readability-in-japanese/</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>ja/archives/web-accessibility/readability/implementing-wcag-sc315-readability-in-japanese/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
