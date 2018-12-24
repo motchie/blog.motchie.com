@@ -3,6 +3,7 @@ title: "Alexaでメールを読み上げられるスキル「音声メールM」
 date: 2018-02-15T22:07:18+09:00
 draft: false
 description: "2017年末から個人的に開発していたMicrosoftオンラインサービス(Outlook.com、Exchange Online、Office 365)のメールを読み上げるAlexaスキルが公開されました。"
+images: ["/images/main-image-alexa-voice-mail-m.png"]
 ---
 
 <section>

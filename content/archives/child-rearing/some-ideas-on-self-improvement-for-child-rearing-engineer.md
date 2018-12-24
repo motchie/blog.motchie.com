@@ -3,6 +3,7 @@ title: "子育てエンジニアの情報収集・学習のアイデア"
 date: 2016-12-23T00:00:00+09:00
 draft: false
 description: "自分の時間をほぼ持てない子育てエンジニアが、家事や移動の時間に耳から情報収集する方法や役に立つサービスをご紹介します。"
+images: ["/images/main-image-some-ideas-on-self-improvement-for-child-rearing-engineer.jpeg"]
 ---
 
 ### はじめに

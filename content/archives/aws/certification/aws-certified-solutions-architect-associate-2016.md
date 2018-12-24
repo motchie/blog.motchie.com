@@ -3,6 +3,7 @@ title: "AWS認定ソリューションアーキテクト–アソシエイト(AS
 date: 2016-12-30T19:47:33+09:00
 draft: false
 description: "AWS認定ソリューションアーキテクト–アソシエイトに合格しました。勉強法についてまとめています。"
+images: ["/images/main-image-aws-certified-solutions-architect-associate-2016.jpeg"]
 ---
 
 ### はじめに

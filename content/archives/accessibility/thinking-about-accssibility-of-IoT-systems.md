@@ -3,6 +3,7 @@ title: "IoTシステムのアクセシビリティを考える"
 date: 2016-12-24T20:42:00+09:00
 draft: false
 description: "IoTシステムにおけるアクセシビリティを確保する設計手法などを検討しています。"
+images: ["/images/thinking-about-accssibility-of-IoT-systems.jpeg"]
 ---
 
 ### 記事の作成にあたって

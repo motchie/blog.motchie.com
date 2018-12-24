@@ -3,6 +3,7 @@ title: "Amazon PollyとAmazon CognitoでWebサイトの読み上げシステム�
 date: 2016-12-18T22:58:13+09:00
 draft: false
 description: "AWS re:Invent 2016で発表されたばかりの新サービスであるAmazon Pollyを使って、従来からあるWebサイトの読み上げシステムを構築してみました。"
+images: ["/images/main-image-building-websites-reciting-system-with-amazon-polly-and-amazon-cognito.jpeg"]
 ---
 
 ### はじめに

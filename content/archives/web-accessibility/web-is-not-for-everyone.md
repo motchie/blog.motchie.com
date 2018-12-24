@@ -3,6 +3,7 @@ title: "情報伝達はWebでは完結しない"
 date: 2017-12-19T13:57:42+09:00
 draft: false
 description: "情報伝達をWebに限定すると受け取れないユーザーが存在することを、私の体験からお伝えしています。Webコンテンツがアクセシブルであっても、それではすべての情報ニーズを満たすことはできないと考えています。"
+images: ["/images/main-image-the-web-is-not-for-everyone.png"]
 ---
 
 ### はじめに

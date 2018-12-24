@@ -3,6 +3,7 @@ title: "JIS X 8341-3:2010 達成基準7.3.1.5の日本語実装と「やさし�
 date: 2015-12-21T00:00:00+09:00
 draft: false
 description: "WCAG 2.0およびJIS X 8341-3:2010の達成基準3.1.5「読解レベル」について、日本での実装を考えます。Web Accessibility Advent Calendar 2015の20日目の記事です。"
+images: ["/images/main-image-implementing-wcag-sc315-readability-in-japanese320w.jpg"]
 ---
 ### はじめに
 

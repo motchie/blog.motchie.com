@@ -3,6 +3,7 @@ title: "アクセシビリティ=マルチモダリティ・アーキテクチ�
 date: 2017-05-18T00:00:05+09:00
 draft: false
 description: "システムの入出力が複数のモダリティで提供されている「マルチモダリティ」を提唱し、これがアクセシブルなシステムの条件であることを説明しています。"
+images: ["/images/multimodality-architecture.jpeg"]
 ---
 
 <section>

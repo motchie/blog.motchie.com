@@ -3,6 +3,7 @@ title: "バーチャルリアリティのアクセシビリティ ― アクセ�
 date: 2017-05-14T00:16:29+09:00
 draft: false
 description: "バーチャルリアリティのアクセシビリティについて、関連用語を整理しながら、狭義と広義のそれぞれについて検討しています。"
+images: ["/images/organize-issues-of-accessibility-of-virtual-reality.jpeg"]
 ---
 
 ### はじめに

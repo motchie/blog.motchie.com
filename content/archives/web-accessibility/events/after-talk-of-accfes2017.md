@@ -3,6 +3,7 @@ title: "2017年「アクセシビリティの祭典」に参加しました"
 date: 2017-05-24T00:28:29+09:00
 draft: false
 description: "2017年「アクセシビリティの祭典」に参加させていただいた感想です。"
+images: ["/images/main-image-attending-to-accfes2017-as-a-speaker.jpeg"]
 ---
 
 ### はじめに

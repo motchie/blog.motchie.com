@@ -3,6 +3,7 @@ title: "Amazon Alexaのユーザビリティと新しいパラダイム"
 date: 2017-12-22T01:07:53+09:00
 draft: false
 description: "Amazon Alexaのユーザビリティを考えた結果ユーザビリティの捉え方を変えたほうがいいのではと考えました。"
+images: ["/images/main-image-usability-for-amazon-alexa-and-new-paradigm.jpeg"]
 ---
 
 <section>

@@ -3,6 +3,7 @@ title: "アクセシビリティもシフトレフト！"
 date: 2017-05-18T12:34:45+09:00
 draft: false
 description: "アジャイル開発やセキュリティ分野で注目されている「シフトレフト」がアクセシビリティでも重要であることを説明しています。"
+images: ["/images/ja-shit-left-description.png"]
 ---
 
 <section>
