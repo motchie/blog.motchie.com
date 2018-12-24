@@ -10,7 +10,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/amazon-alexa/alexa-skill-voice-mail-m-released/"
+                "ReplaceKeyPrefixWith": "ja/archives/amazon-alexa/alexa-skill-voice-mail-m-released/"
             }
         },
         {
@@ -20,7 +20,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/amazon-alexa/usability-for-amazon-alexa-and-new-paradigm/"
+                "ReplaceKeyPrefixWith": "ja/archives/amazon-alexa/usability-for-amazon-alexa-and-new-paradigm/"
             }
         },
         {
@@ -30,7 +30,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/web-accessibility/web-is-not-for-everyone/"
+                "ReplaceKeyPrefixWith": "ja/archives/web-accessibility/web-is-not-for-everyone/"
             }
         },
         {
@@ -40,7 +40,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/web-accessibility/events/after-talk-of-accfes2017/"
+                "ReplaceKeyPrefixWith": "ja/archives/web-accessibility/events/after-talk-of-accfes2017/"
             }
         },
         {
@@ -50,7 +50,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/accessibility/shift-left-in-accessibility/"
+                "ReplaceKeyPrefixWith": "ja/archives/accessibility/shift-left-in-accessibility/"
             }
         },
         {
@@ -60,7 +60,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/accessibility/multimodality-architecture/"
+                "ReplaceKeyPrefixWith": "ja/archives/accessibility/multimodality-architecture/"
             }
         },
         {
@@ -70,7 +70,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/accessibility/organize-issues-of-accessibility-of-virtual-assistant/"
+                "ReplaceKeyPrefixWith": "ja/archives/accessibility/organize-issues-of-accessibility-of-virtual-assistant/"
             }
         },
         {
@@ -80,7 +80,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/accessibility/organize-issues-of-accessibility-of-virtual-reality/"
+                "ReplaceKeyPrefixWith": "ja/archives/accessibility/organize-issues-of-accessibility-of-virtual-reality/"
             }
         },
         {
@@ -90,7 +90,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/web-accessibility/events/will-attending-to-accfes2017-as-a-speaker/"
+                "ReplaceKeyPrefixWith": "ja/archives/web-accessibility/events/will-attending-to-accfes2017-as-a-speaker/"
             }
         },
         {
@@ -100,7 +100,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/aws/certification/aws-certified-solutions-architect-associate-2016/"
+                "ReplaceKeyPrefixWith": "ja/archives/aws/certification/aws-certified-solutions-architect-associate-2016/"
             }
         },
         {
@@ -110,7 +110,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/accessibility/thinking-about-accssibility-of-iot-systems/"
+                "ReplaceKeyPrefixWith": "ja/archives/accessibility/thinking-about-accssibility-of-iot-systems/"
             }
         },
         {
@@ -120,7 +120,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/child-rearing/some-ideas-on-self-improvement-for-child-rearing-engineer/"
+                "ReplaceKeyPrefixWith": "ja/archives/child-rearing/some-ideas-on-self-improvement-for-child-rearing-engineer/"
             }
         },
         {
@@ -130,7 +130,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/web-accessibility/building-websites-reciting-system-with-amazon-polly-and-amazon-cognito/"
+                "ReplaceKeyPrefixWith": "ja/archives/web-accessibility/building-websites-reciting-system-with-amazon-polly-and-amazon-cognito/"
             }
         },
         {
@@ -140,7 +140,7 @@
             "Redirect": {
                 "HostName": "blog.motchie.com",
                 "Protocol": "https",
-                "ReplaceKeyPrefixWith": "ja/web-accessibility/readability/implementing-wcag-sc315-readability-in-japanese/"
+                "ReplaceKeyPrefixWith": "ja/archives/web-accessibility/readability/implementing-wcag-sc315-readability-in-japanese/"
             }
         },
         {
