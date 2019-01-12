@@ -3,16 +3,17 @@ version: 0.2
 phases:
   install:
     commands:
+      - curl --silent --location https://rpm.nodesource.com/setup_8.x | bash -
+      - amazon-linux-extras install ruby2.4
+      - yum -y install tar gzip nodejs git awscli rubygem-rdoc
+      - gem install asciidoctor
+      - curl -o- -L https://yarnpkg.com/install.sh | bash
+      - export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+      - yarn install
       - curl -Ls ${HUGO_URL} -o /tmp/hugo.tar.gz
       - tar xf /tmp/hugo.tar.gz -C /tmp
       - mv /tmp/hugo /usr/local/bin/hugo
       - rm -rf /tmp/hugo*
-      - curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
-      - sudo apt-get install -y nodejs
-      - curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-      - echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
-      - sudo apt-get update && sudo apt-get install yarn
-      - yarn install
   pre_build:
     commands:
       - cd $CODEBUILD_SRC_DIR/themes
