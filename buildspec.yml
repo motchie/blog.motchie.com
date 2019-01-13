@@ -18,6 +18,8 @@ phases:
     commands:
       - cd $CODEBUILD_SRC_DIR/themes
       - git clone https://github.com/motchie/hugo-theme-blog-motchie-com
+      - cd hugo-theme-blog-motchie-com
+      - git checkout ${BRANCH}
       - cd $CODEBUILD_SRC_DIR
   build:
     commands:
@@ -30,4 +32,4 @@ phases:
       - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths "/*"
       - curl "https://www.google.com/ping?sitemap=https%3A%2F%2Fblog.motchie.com%2Fsitemap.xml"
       - curl "https://www.bing.com/ping?sitemap=https%3A%2F%2Fblog.motchie.com%2Fsitemap.xml"
-      - echo DEVELOP BRANCH!
+  
