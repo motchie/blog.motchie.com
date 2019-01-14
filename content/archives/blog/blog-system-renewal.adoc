@@ -1,0 +1,14 @@
+---
+title: "ブログをHugoに変更しました"
+date: 2019-01-15T22:07:18+09:00
+draft: false
+description: "2017年末から個人的に開発していたMicrosoftオンラインサービス(Outlook.com、Exchange Online、Office 365)のメールを読み上げるAlexaスキルが公開されました。"
+images: ["/images/main-image-alexa-voice-mail-m.png"]
+---
+== はじめに
+
+本ブログのCMSは、以前はMovable Typeで構築していましたが、このたびHugoに変更しました。
+
+
+
+
