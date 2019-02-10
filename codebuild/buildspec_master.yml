@@ -26,12 +26,6 @@ phases:
       - hugo --baseURL ${BASE_URL}
       - find ./public/ -name "*.html" -exec node_modules/js-beautify/js/bin/html-beautify.js --config js-beautify.json --replace {} \;
       - node_modules/js-beautify/js/bin/css-beautify.js --config js-beautify.json --replace public/css/basic.css
-  post_build:
-    commands:
-      - aws s3 sync public/ s3://${BUCKET_NAME} --delete --acl public-read
-      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths "/*"
-      - curl "https://www.google.com/ping?sitemap=https%3A%2F%2Fblog.motchie.com%2Fsitemap.xml"
-      - curl "https://www.bing.com/ping?sitemap=https%3A%2F%2Fblog.motchie.com%2Fsitemap.xml"
 artifacts:
   files:
     - public/**/*
