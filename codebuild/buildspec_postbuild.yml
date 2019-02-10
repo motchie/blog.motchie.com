@@ -1,0 +1,11 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - yum -y install awscli
+  build:
+    commands:
+      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths "/*"
+      - curl "https://www.google.com/ping?sitemap=https%3A%2F%2Fblog.motchie.com%2Fsitemap.xml"
+      - curl "https://www.bing.com/ping?sitemap=https%3A%2F%2Fblog.motchie.com%2Fsitemap.xml"
