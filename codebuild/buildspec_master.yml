@@ -34,6 +34,5 @@ phases:
       - curl "https://www.bing.com/ping?sitemap=https%3A%2F%2Fblog.motchie.com%2Fsitemap.xml"
   artifacts:
     files:
-      - 'public/**/*'
-      - blog
+      - public/**/*
   discard-paths: yes
