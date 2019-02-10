@@ -27,5 +27,4 @@ phases:
       - find ./public/ -name "*.html" -exec node_modules/js-beautify/js/bin/html-beautify.js --config js-beautify.json --replace {} \;
       - node_modules/js-beautify/js/bin/css-beautify.js --config js-beautify.json --replace public/css/basic.css
 artifacts:
-  files:
-    - public/**/*
+  base-directory: public
